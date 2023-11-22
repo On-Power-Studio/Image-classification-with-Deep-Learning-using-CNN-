@@ -37,3 +37,6 @@ Contribute to the magic of image classification! Your input matters—let's buil
 
 Linkedin profile: https://www.linkedin.com/in/britto-sam-jose-j-b70885253/
 
+Download dataset:
+           https://drive.google.com/drive/folders/1tt1Rsvl5FfsKczAjF1nxPM5u57WmniT0?usp=sharing
+
